@@ -1,3 +1,5 @@
+This project is essentially abandoned. I wanted to transition this to theano and that required me to abandon einsum, I did this, but, while it worked (give or take) I never found any decent use for it. 
+
 deep_boltzmann
 ==============
 This class intends to implement a deep boltzmann machine as described by [Hinton and Salakhutdinov][5]. There could (might (should)) be a better way to get predictions, but a prediction method using gibbs sampling and masks is implemented.
